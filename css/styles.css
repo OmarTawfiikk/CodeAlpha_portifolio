@@ -30,7 +30,6 @@ body {
 
 #home-sec .home {
     margin-top: 0;
-    background-image: url(../images/image.jpeg);
     background-size: cover;
     background-attachment: fixed;
     height: calc(100vh - 56px); /* 56px is the height of the navbar */
@@ -358,4 +357,29 @@ footer {
 
 .social-icon:hover {
     transform: scale(1.1); 
+}
+
+.dart {
+    width: 90%;
+    background-color: #4CAF50;
+}
+
+.flutter {
+    width: 90%;
+    background-color: #4CAF50;
+}
+
+.cpp {
+    width: 70%;
+    background-color: #005f73;
+}
+
+.android-studio {
+    width: 85%;
+    background-color: #4CAF50;
+}
+
+.vs-code {
+    width: 95%;
+    background-color: #4CAF50;
 }
